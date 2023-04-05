@@ -29,5 +29,5 @@ body{
     border: none;
     text-align: center;
     background-color: rgba(0,0,0,0) !important;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid white !important;
 }
