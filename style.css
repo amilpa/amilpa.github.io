@@ -31,4 +31,5 @@ body{
     background-color: rgba(0,0,0,0) !important;
     color: #fff !important;
     border-bottom: 2px solid white !important;
+    font-weight: 400 !important;
 }
