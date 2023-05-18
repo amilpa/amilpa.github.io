@@ -1,35 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;500&display=swap");
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Outfit' , sans-serif;
-    font-weight: 400 !important;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400 !important;
 }
 
-body{
-    background-image: url('./pewds.jpg') !important;
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100vh;
-}
-
-.form-control{
-    position: absolute;
-    top: 5%;
-    left: 50%;
-    translate: -50% 0%;
-    padding: 20px 20px;
-    font-size: 1.8rem;
-    width: 600px;
-    border-radius: 10px;
-    outline: none;
-    border: none;
-    text-align: center;
-    background-color: rgba(0,0,0,0) !important;
-    color: #fff !important;
-    border-bottom: 2px solid white !important;
-    font-weight: 400 !important;
+body {
+  background-image: url("./leafy.png") !important;
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
